@@ -2,12 +2,9 @@ Hi, my name is Paulo Victor Lorençato, I live in Brazil and I'm currently learn
 
 My previous knowledge so far includes:
 
-	Algorithms;
-	
- 	Basic data structures (quewes, stacks, chain lists, trees and hashtables);
-	
- 	Back-end development:
-		
+	Algorithms;	
+ 	Basic data structures (quewes, stacks, chain lists, trees and hashtables);	
+ 	Back-end development:		
   		PHP;
 		NodeJS;
 		Express;
