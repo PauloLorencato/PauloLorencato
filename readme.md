@@ -8,6 +8,8 @@ My previous knowledge so far includes:
   		PHP;
 		NodeJS;
 		Express;
+  		JWT and authentication;
+    		APIs and HTTP requests;
 	Front-end development:
 		HTML;
 		CSS;
@@ -15,8 +17,8 @@ My previous knowledge so far includes:
 		Typescript;
 		React;
 	Databases:
-		SQLite;
-		NoSQl;
+		MongoDB;
+  		MySQL;
 	Data sciente:
 		Python;
 		Web scraping;
