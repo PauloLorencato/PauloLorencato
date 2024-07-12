@@ -6,7 +6,7 @@ My previous knowledge so far includes:
  	Basic data structures (quewes, stacks, chain lists, trees and hashtables);	
  	Back-end development:		
   		C# with .NET (beginner);
-    		Javascript with NodeJS (beginner);
+    	Javascript with NodeJS (beginner);
 	Front-end development:
 		HTML;
 		CSS;
